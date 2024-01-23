@@ -1,7 +1,7 @@
-<h1 align="center">Hello there, I'm Quincy Bulla</h1>
-<h3 align="center">A Passionate Creative in Graphic Design / Digital Art / UI/UX & Software Engineer from Atlanta, Ga</h3>
+<h1 align="center">Hello there, I'm Quincy Bulla, from Atlanta, GA </h1>
+<h3 align="center">A Creative in Graphic Design | UI/UX | Software Engineer | Digital Art |</h3>
 
-- 🔭 I’m currently working on **100hr project**
+- 🔭 I’m currently working on **Learning React**
 
 - 🌱 I’m currently learning **Fullstack Development**
 
