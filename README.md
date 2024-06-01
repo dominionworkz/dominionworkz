@@ -1,13 +1,11 @@
 <h1 align="center">Hello there, I'm Quincy Bulla</h1>
 <h3 align="center">A Creative in Graphic Design | UI/UX | Software Engineer | Digital Art |</h3>
-<h2>Atlanta, Ga</h2>
 
 <p>Welcome, and thank you for visiting! A little bit about me: I'm originally from North Carolina, now based in Atlanta, GA. My formal studies began at the Art Institute of Atlanta for Graphic Design, Interaction-Design Foundation for Design Thinking, and 100Devs for Software Engineering.
 
 I have a unique blend of specialized skills, talents, and expertise, making me a versatile creative. I'm consistently expanding my industry knowledge and pursuing innovation in all that I do in the creative space. I'm always learning something new, whether it is through self-teaching, academic education and from others.
 
 When I am not creating, I enjoy spending time with family, working out, reading, watching movies, or simply resting quietly. These all contribute to my level of creativity, memories and experiences. I Thank you for taking the time to learn more about me! </p>
-
 
 - 🔭 I’m currently working on **Learning React**
 
