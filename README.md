@@ -1,3 +1,4 @@
+<img src="https://wallpapercave.com/wp/wp2471496.jpg"/>
 <h1 align="center">Hello there, I'm Quincy Bulla</h1>
 <h3 align="center">A Creative in Graphic Design | UI/UX | Software Engineer | Digital Art |</h3>
 
