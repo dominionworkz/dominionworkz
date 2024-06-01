@@ -1,6 +1,6 @@
-<h1 align="center">Hello there, I'm Quincy Bulla, from Atlanta, GA </h1>
+<h1 align="center">Hello there, I'm Quincy Bulla</h1>
 <h3 align="center">A Creative in Graphic Design | UI/UX | Software Engineer | Digital Art |</h3>
-
+<h2>Atlanta, Ga</h2>
 - 🔭 I’m currently working on **Learning React**
 
 - 🌱 I’m currently learning **Fullstack Development**
