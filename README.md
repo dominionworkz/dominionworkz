@@ -1,4 +1,5 @@
-<img src="https://wallpapercave.com/wp/wp2471496.jpg"/>
+<img src="https://wallpapercave.com/wp/wp2471496.jpg"/>![GitHubProfileBackgroudPic](https://github.com/dominionworkz/dominionworkz/assets/37887069/ead12e4d-20e9-45f5-8521-a8e8ed51140b)
+
 <h1 align="center">Hello there, I'm Quincy Bulla</h1>
 <h3 align="center">A Creative in Graphic Design | UI/UX | Software Engineer | Digital Art |</h3>
 
