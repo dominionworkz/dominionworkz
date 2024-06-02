@@ -20,6 +20,8 @@ When I am not creating, I enjoy spending time with family, working out, reading,
 <a href="https://www.dominionworkz.com/" target="blank"><img align="center" height="30" width="40"/></a>
 <a href="https://twitter.com/dominionworkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dominionworkz" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/quincy-bulla-20031530/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quincy-bulla-20031530/" height="30" width="40" /></a>
+![DWKZ_OfficialLogoWhite_2023](https://github.com/dominionworkz/dominionworkz/assets/37887069/f019fc2c-9bb9-4734-8392-af70125b4f7a)
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
