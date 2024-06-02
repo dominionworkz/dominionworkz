@@ -13,7 +13,7 @@ When I am not creating, I enjoy spending time with family, working out, reading,
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- ⚡ Fun fact **I like Cross-fit workouts and Chess**
+- ⚡ Fun fact **I like Cross-fit workouts, Reading, Cooking, Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
