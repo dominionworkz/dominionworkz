@@ -17,7 +17,7 @@ When I am not creating, I enjoy spending time with family, working out, reading,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a img src="https://github.com/dominionworkz/dominionworkz/assets/37887069/f019fc2c-9bb9-4734-8392-af70125b4f7a" align="center" alt="https://dominionworkz.com" height="30" width="40"/a>
+<img src="https://github.com/dominionworkz/dominionworkz/assets/37887069/f019fc2c-9bb9-4734-8392-af70125b4f7a" align="center" alt="https://dominionworkz.com" height="30" width="40"/>
 <a href="https://twitter.com/dominionworkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dominionworkz" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/quincy-bulla-20031530/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quincy-bulla-20031530/" height="30" width="40" /></a>
 
