@@ -20,12 +20,12 @@ When I am not creating, I enjoy spending time with family, working out, reading,
 <a href="https://www.dominionworkz.com/" target="blank"><img align="center" height="30" width="40"/></a>
 <a href="https://twitter.com/dominionworkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dominionworkz" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/quincy-bulla-20031530/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/quincy-bulla-20031530/" height="30" width="40" /></a>
-<img src="https://github.com/dominionworkz/dominionworkz/assets/37887069/f019fc2c-9bb9-4734-8392-af70125b4f7a"
+<img src="https://github.com/dominionworkz/dominionworkz/assets/37887069/f019fc2c-9bb9-4734-8392-af70125b4f7a"alt="https://dominionworkz.com" height="30" width="40"/>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figm a/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
